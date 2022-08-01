@@ -1,5 +1,5 @@
 # react-boilerplate
-This is a create react app with scss global values ready to be edited
+This is a create react app with scss global values and yarn ready to be edited
 
 
 # Getting Started with Create React App
